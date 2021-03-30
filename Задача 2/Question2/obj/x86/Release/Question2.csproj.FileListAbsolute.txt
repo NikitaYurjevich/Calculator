@@ -1,0 +1,5 @@
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\bin\Release\Question2.exe
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\bin\Release\Question2.pdb
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\obj\x86\Release\Question2.exe
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\obj\x86\Release\Question2.pdb
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\obj\x86\Release\Question2.csprojResolveAssemblyReference.cache

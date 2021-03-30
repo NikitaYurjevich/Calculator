@@ -1,0 +1,4 @@
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\bin\Debug\Question2.exe
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\bin\Debug\Question2.pdb
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\obj\x86\Debug\Question2.exe
+C:\Users\Nikita\documents\visual studio 2010\Projects\Question2\Question2\obj\x86\Debug\Question2.pdb
