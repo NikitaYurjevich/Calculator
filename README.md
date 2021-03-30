@@ -1,5 +1,5 @@
 # Test-task
-Первая задача разделена на три файла: Main.cs, Operation.cs, Expression.cs .<br>
+<b>Первая задача<b> разделена на три файла: Main.cs, Operation.cs, Expression.cs .<br>
 Вводная информация находится в Main.cs
 
-Вторая задача разделена на два файла: Program.cs и MyList.cs .
+<b>Вторая задача<b> разделена на два файла: Program.cs и MyList.cs .
